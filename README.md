@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230">
 <p><em>Amateur Coder!</p>
 
-[![Twitter: WimpyKidFan](https://img.shields.io/twitter/follow/ScratchIhate?style=social)](https://twitter.com/8xuyanrong) <br/>
+[![Twitter: WimpyKidFan](https://img.shields.io/twitter/follow/WimpyKidFan?style=social)](https://twitter.com/8xuyanrong) <br/>
 [![Linkedin: unavailable](https://img.shields.io/badge/-Deleted-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delete/)](https://www.linkedin.com/in/deleted/) <br/>
 [![GitHub CoolCoderTech](https://img.shields.io/github/followers/CoolCoderTech?label=follow&style=social)](https://github.com/CoolCoderTech) <br/>
 
