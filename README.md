@@ -3,7 +3,7 @@
 <p><em>Amateur Coder!</p>
 
 [![Twitter: WimpyKidFan](https://img.shields.io/twitter/follow/WimpyKidFan?style=social)](https://twitter.com/WimpyJake) <br/>
-[![Linkedin: unavailable](https://img.shields.io/badge/-   -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/404/)](https://www.linkedin.com/in/n/) <br/>
+[![Linkedin: unavailable](https://img.shields.io/badge/-ㅤ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/404/)](https://www.linkedin.com/in/n/) <br/>
 [![GitHub WimpyJake](https://img.shields.io/github/followers/WimpyJake?label=follow&style=social)](https://github.com/WimpyJake) <br/>
 
 ### More About Me...
@@ -19,4 +19,4 @@
 ![Jake's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wimpyjake&hide=["stars"]&show_icons=true)
 *****
 <br/>
-<p>Visit my profile and give a ⭐️ if you like it</p> 
+<p>Visit my profile and give a ⭐️ if you like it! ㅤ</p> 
