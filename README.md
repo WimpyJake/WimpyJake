@@ -3,8 +3,8 @@
 <p><em>Amateur Coder!</p>
 
 [![Twitter: WimpyKidFan](https://img.shields.io/twitter/follow/WimpyKidFan?style=social)](https://twitter.com/WimpyJake) <br/>
-[![Linkedin: unavailable](https://img.shields.io/badge/-Deleted-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delete/)](https://www.linkedin.com/in/deleted/) <br/>
-[![GitHub CoolCoderTech](https://img.shields.io/github/followers/CoolCoderTech?label=follow&style=social)](https://github.com/CoolCoderTech) <br/>
+[![Linkedin: unavailable](https://img.shields.io/badge/-Deleted-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delete/)](https://www.linkedin.com/in//) <br/>
+[![GitHub WimpyJake](https://img.shields.io/github/followers/WimpyJake?label=follow&style=social)](https://github.com/WimpyJake) <br/>
 
 ### More About Me...
 + 😄 Pronouns: He/Him but i'll answer to just about anything
